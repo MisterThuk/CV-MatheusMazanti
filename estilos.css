@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    font-family: 'Georgia', serif;
+    font-size: 2em;
+    color: #2e8b57;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.section {
+    margin: 20px;
+    padding: 10px;
+    background-color: #e6e6fa;
+    border-radius: 5px;
+}
+
+a[href] {
+    color: #1e90ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    color: #4b0082;
+    text-transform: uppercase;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #696969;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #dcdcdc;
+}
